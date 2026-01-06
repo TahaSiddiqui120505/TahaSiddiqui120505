@@ -1,15 +1,40 @@
-<h1 align="center">Hi 👋, I'm Taha Siddiqui</h1>
-<h3 align="center">Full-stack developer exploring Generative AI–powered applications</h3>
+## 👋 About Me
 
-- 🔭 I’m currently working on **EduSaver — a real-world book resale platform built as a full-stack web application, focused on solving practical student use cases and evolving toward a production-style system.**
+I’m a **full-stack developer** who enjoys building real-world applications with a strong focus on **fundamentals, clarity, and practical problem-solving**.  
+Rather than chasing tools, I prefer understanding how things work end-to-end and then evolving them into reliable, production-style solutions.
 
-- 🌱 I’m currently learning **Designing Generative AI application workflows, focusing on LLMs combined with retrieval-augmented generation (RAG) and applying them to real-world full-stack systems using LangChain and LangGraph.**
+Alongside full-stack development, I’m intentionally expanding into **Generative AI**, learning how **LLMs combined with retrieval-augmented generation (RAG)** can be integrated into modern web applications using **LangChain and LangGraph**.
 
-- 💬 Ask me about **Building full-stack applications from fundamentals, structuring real-world projects, and getting started with LLM and RAG–based application workflows.**
+---
 
-- 📫 How to reach me **siddiquitaha120@gmail.com**
+## 🚀 Current Project
 
-- ⚡ Fun fact **I prefer understanding systems deeply before building on top of them.**
+**EduSaver**  
+A real-world **book resale platform** designed to solve practical student use cases.  
+I’m building it as a full-stack application, handling features end-to-end while focusing on scalability, maintainability, and real product behavior rather than demo-style implementations.
+
+---
+
+## 💬 What I’m Comfortable Discussing
+
+- Designing and structuring **full-stack applications** from fundamentals  
+- Turning simple ideas into **real-world, usable systems**  
+- Getting started with **LLM and RAG–based application workflows** as a developer  
+
+---
+
+## 🌱 Currently Learning
+
+- Designing **Generative AI application workflows**
+- Applying **LLMs + RAG** to real-world systems
+- Using **LangChain and LangGraph** for orchestration and flow control  
+
+---
+
+## ⚡ Fun Fact
+
+I prefer understanding *why* something works before building on top of it — fewer shortcuts, better systems.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
