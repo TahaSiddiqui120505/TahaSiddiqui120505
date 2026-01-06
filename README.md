@@ -1,16 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    duration=4200&
-    pause=1200&
-    color=36BCF7&
-    center=true&
-    vCenter=true&
-    width=800&
-    lines=Hi+👋,+I'm+Taha+Siddiqui;
-    Full-stack+developer;
-    Exploring+Generative+AI+applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4200&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Taha+Siddiqui;Full-stack+developer;Exploring+Generative+AI+applications" />
 </p>
 
 ---
